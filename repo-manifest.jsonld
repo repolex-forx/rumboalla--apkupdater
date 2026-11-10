@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rumboalla/apkupdater/commit/69b6fcdf52a7735ae17101efe1a0cd26222fb276",
       "git:hexsha": "69b6fcdf52a7735ae17101efe1a0cd26222fb276",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.0.604-ci"
     },
     {
