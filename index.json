@@ -1,0 +1,11 @@
+{
+  "org": "rumboalla",
+  "repo": "apkupdater",
+  "versions": [
+    {
+      "commit": "69b6fcdf52a7735ae17101efe1a0cd26222fb276",
+      "tag": "0.0.604-ci",
+      "parsed_at": "2026-11-10T02:24:45.293349+00:00"
+    }
+  ]
+}
